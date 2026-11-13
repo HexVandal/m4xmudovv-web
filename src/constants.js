@@ -1,6 +1,6 @@
-export const VERSION = '2.2.0'
+export const VERSION = '2.2.1'
 export const REPO_URL = 'https://github.com/mahmudovsanjar001-lang/m4xmudovv'
-export const DOWNLOAD_URL = 'https://github.com/mahmudovsanjar001-lang/m4xmudovv/releases/download/v2.2.0/m4xmudovv-Setup.exe'
+export const DOWNLOAD_URL = 'https://github.com/mahmudovsanjar001-lang/m4xmudovv/releases/download/v2.2.1/m4xmudovv-Setup.exe'
 export const NAV = [['Home', '#home'], ['Features', '#features'], ['Showcase', '#showcase'], ['Download', '#download']]
 // Real app screenshots live in /public/screens. Replace a file to update the site.
 export const SCREENS = [
